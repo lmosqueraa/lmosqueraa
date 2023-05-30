@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmosqueraa
-- 👀 I’m interested in linux, self-hosting, docker.
+- 👀 I’m interested in linux, self-hosting, networking and docker.
 - 🌱 I’m currently learning how to use github.
 
 <!---
